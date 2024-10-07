@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm **Andrey**, a passionate **Software Engineer** 🚀 focused on **web development**, **algorithms**, and **automation**. I enjoy solving complex problems, working on task management tools, and improving user experiences.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Open+Source+Enthusiast;IVAO Webmaster;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Open+Source+Enthusiast;IVAO+Webmaster;Problem+Solver)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working on a **terminal password manager** for organizing multiple team tasks.
 - 🌱 I’m currently learning **Flask** and **bash scripting** and improving my **algorithmic problem-solving** skills.
