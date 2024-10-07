@@ -31,13 +31,13 @@ I'm **Andrey**, a passionate **Software Engineer** 🚀 focused on **web develop
 
 ## 🚀 My Algorithms Knowledge:
 <div align="center">
-  <img height="150em" src="https://www.codewars.com/users/Teqilla/badges/large"/>
+  <img height="150em" src="https://www.codewars.com/users/Teqilla/badges/small"/>
   <img height="150em" src="https://leetcard.jacoblin.cool/teqilla"/>
 </div>
 
 ## 📈 Profile Summary:
 <div align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-s-web&theme=solarized_dark"/>
+  <img height="150em" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrew-s-web&theme=solarized_dark"/>
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrew-s-web&theme=solarized_dark"/>
   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrew-s-web&theme=solarized_dark"/>
 </div>
